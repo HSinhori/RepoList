@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Repo List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvName">Name</string>
+    <string name="tvDescription">Description</string>
+    <string name="stars_count">0</string>
+    <string name="app_language">Lang</string>
+    <string name="action_search">Search</string>
+    <string name="my_own_repo_view">My Repo List</string>
+    <string name="search_view">Search</string>
+    <string name="my_own_repository">HSinhori</string>
+    <string name="whats_your_username">What\'s your username?</string>
+    <string name="set_user">Set user</string>
+</resources>
